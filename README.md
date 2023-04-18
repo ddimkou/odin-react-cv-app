@@ -1,1 +1,2 @@
-# odin-react-cv-app
+The Odin Project
+CV Application using React
